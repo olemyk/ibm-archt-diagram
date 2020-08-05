@@ -19,22 +19,23 @@ Check also [IBM Architecture Center](https://www.ibm.com/cloud/garage/architectu
 
 Most of the diagrams have layers, So you can remove or add for.example: FC Ports/Links
 
-![layers](./images/diagram_layers.png)    
+
+<img src="./images/diagram_layers.png" width="500" height="350" />
                                                                      
 ## IBM Storage Examples
 
-##### IBM FlashSystem - FC-Port Connection Diagram
+#### IBM FlashSystem - FC-Port Connection Diagram
 
 ![FC-Ports](./images/IBM_FlashSystem_FC_Ports_8_Odd_Even.jpg)
 
 ---
 
-##### IBM FlashSystem -  HyperSwap - SAN Fabric Private and Public Diagram
+#### IBM FlashSystem -  HyperSwap - SAN Fabric Private and Public Diagram
 
 ![Fabric_Private_Public](./images/IBM_Flashsystem-HyperSwap-SAN-Fabric-Public-Private.png)
 
 
-##### IBM FlashSystem - HyperSwap - SAN Fabric Private Intercluster Diagram               
+#### IBM FlashSystem - HyperSwap - SAN Fabric Private Intercluster Diagram               
                                                                                        
 ![Fabric_Public](./images/IBM_FlashSystem-HyperSwap-SAN-Fabric-Private-Intercluster.png)      
 
