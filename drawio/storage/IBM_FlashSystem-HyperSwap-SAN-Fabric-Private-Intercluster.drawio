@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-05T12:28:52.025Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="_4Q6g3M9rvFITZt8dbvl" version="13.6.0" type="github">
+<mxfile modified="2020-08-05T12:37:43.990Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="fCLeC-2SSCQ-064j0yCt" version="13.6.0" type="github">
   <diagram id="_FYfWjUaClksR24mImdf" name="Logical SAN Fabric - Redudant ISL - HyperSwap">
     <mxGraphModel dx="2014" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -316,9 +316,6 @@
         </mxCell>
         <mxCell id="9IRngdyGLmnhLUa79E48-0" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/Enterprise.svg;rounded=0;glass=0;comic=0;fillColor=#FFFFFF;fontFamily=Verdana;" parent="IfvViQirqnI56DDQwfop-1" vertex="1">
           <mxGeometry x="30" y="15" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8lagXTnVdbTrNun3ConY-0" value="test" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IfvViQirqnI56DDQwfop-1">
-          <mxGeometry x="545" y="120" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
