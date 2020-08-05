@@ -1,7 +1,7 @@
 # IBM Architecture Diagram
 
-Create some IBM diagrams in Diagram / DrawIO. that can be use on almost all platforms and they have a WebBrowser version.
-For now it's most Storage Diagrams
+Created some IBM diagrams in "Diagram /DrawIO" that can be use on almost all platforms and they have a WebBrowser version.
+For now it's Storage Diagrams.
 
 
 
