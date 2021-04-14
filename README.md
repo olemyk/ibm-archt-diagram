@@ -16,16 +16,19 @@ Check also [IBM Architecture Center](https://www.ibm.com/cloud/garage/architectu
 
 
  - **Direct Links to Online Diagram editor from GitHub Repo**
-   - Block Storage
+
+   - **Block Storage**
      - [IBM FlashSystem - HyperSwap - SAN Fabric Private and Public Diagram](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fmaster%2Fdrawio%2Fstorage%2FIBM_Flashsystem-HyperSwap-SAN-Fabric-Public-Private.drawio)
      - [IBM FlashSystem - HyperSwap - SAN Fabric Private Intercluster](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fmaster%2Fdrawio%2Fstorage%2FIBM_FlashSystem-HyperSwap-SAN-Fabric-Private-Intercluster.drawio)
      - [IBM FlashSystem - SVC Stretched Cluster - SAN Fabric Private and Public Diagram](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fmaster%2Fdrawio%2Fstorage%2IBM_Flashsystem_SVC_SAN_Fabric_Public_Private.drawio)
-     - [IBM FlashSystem - FC-Port Connection Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fmaster%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v2.drawio)
-   - File Storage 
-     - [IBM Spectrum Scale - CSNA](https://app.diagrams.net/#https%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.drawio)
-     - [IBM Spectrum Scale - Stretched Cluster - CES and Remote Cluster](https://app.diagrams.net/#https%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Stretched_Cluster_CES_Remote.drawio)
-   - IBM Power Systems
-      - [IBM Power Systems - Network Drawing](https://app.diagrams.net/#)
+     - [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v2.drawio)
+   
+   - **File Storage**
+     - [IBM Spectrum Scale - Container Native Storage Access](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.drawio)
+     - [IBM Spectrum Scale - Stretched Cluster - CES - Remote Cluster](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Stretched_Cluster_CES_Remote.drawio)
+   
+   - **IBM Power Systems**
+      - [IBM Power Systems - Network Connection Drawing](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fpower-systems%2FIBM_power_systems_network_drawing.drawio)
    
 
 ### User Guide.
@@ -42,14 +45,17 @@ Most of the diagrams have layers, So you can remove or add for.example: **FC Por
 
 **Example Flashsystem with Public port.**
 ![FC-Ports-fs-7200](./images/storage/IBM_FlashSystem_SVC_8_FCPorts_Odd_Even_v2.png)
+- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v2.drawio)
 
 **Example Flashsystem 7200,9100 and 5100 with private and Public port for HyperSwap setup**
 
 ![FC-Ports-fs-hyperswap](./images/storage/IBM_FlashSystem_SVC_8FCPorts_Odd_Even_HyperSwap_v2.png)
+- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v2.drawio)
 
-**Example of FlashSystem 5200 with private, there is also for Private Public / Hypeswap**
+**Example of FlashSystem 5200 with private, (There is also for Private Public / Hypeswap)**
 
 ![FC-Ports-fs-hyperswap](./images/storage/IBM_FlashSystem_5200_8_FCPorts_Odd_Even_v2.png)
+- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v2.drawio)
 
 
 
@@ -85,7 +91,8 @@ Example with IBM Power E950 network drawing with 10Gb and 1gbps - SRV-IO and SEA
 
 ![IBM_Power_E950](./images/power-systems/IBM_Power_systems_network_drawing_P950_10Gb_1Gb.png)
 
-- [IBM Power Systems - Network Drawing](https://app.diagrams.net/#)
+ - [IBM Power Systems - Network Drawing](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fpower-systems%2FIBM_power_systems_network_drawing.drawio)
+
 
 ----
 
@@ -95,13 +102,13 @@ Example with IBM Spectrum Scale Container Native Storage Access - CSNA
 
 ![IBM_Spectrum Scale CSNA](./images/storage/IBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.png)
 
-- [IBM Spectrum Scale - CSNA](https://app.diagrams.net/#https%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.drawio)
+- [IBM Spectrum Scale - CSNA](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.drawio)
 
 Example with IBM Spectrum Scale Stretched Cluster + CES and Remote Cluster options-  
 
 ![IBM_Spectrum Scale Stretched_Cluster](./images/storage/IBM_Spectrum_Scale_Stretched_Cluster_CES_Remote.png)
 
-- [IBM Spectrum Scale - Stretched Cluster - CES and Remote Cluster](https://app.diagrams.net/#https%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Stretched_Cluster_CES_Remote.drawio)
+- [IBM Spectrum Scale - Stretched Cluster - CES and Remote Cluster](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Stretched_Cluster_CES_Remote.drawio)
 
 
 ---
