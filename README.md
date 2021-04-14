@@ -22,8 +22,8 @@ Check also [IBM Architecture Center](https://www.ibm.com/cloud/garage/architectu
      - [IBM FlashSystem - SVC Stretched Cluster - SAN Fabric Private and Public Diagram](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fmaster%2Fdrawio%2Fstorage%2IBM_Flashsystem_SVC_SAN_Fabric_Public_Private.drawio)
      - [IBM FlashSystem - FC-Port Connection Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fmaster%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v2.drawio)
    - File Storage 
-     - [IBM Spectrum Scale - CSNA](https://app.diagrams.net/#)
-     - [IBM Spectrum Scale - Stretched Cluster - CES and Remote Cluster](https://app.diagrams.net/#)
+     - [IBM Spectrum Scale - CSNA](https://app.diagrams.net/#https%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.drawio)
+     - [IBM Spectrum Scale - Stretched Cluster - CES and Remote Cluster](https://app.diagrams.net/#https%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Stretched_Cluster_CES_Remote.drawio)
    - IBM Power Systems
       - [IBM Power Systems - Network Drawing](https://app.diagrams.net/#)
    
@@ -32,7 +32,7 @@ Check also [IBM Architecture Center](https://www.ibm.com/cloud/garage/architectu
 
 Most of the diagrams have layers, So you can remove or add for.example: **FC Ports/Links**
 
-<img src="./images/diagram_layers_v2.png" width="500" height="350" />
+<img src="./images/diagram_layers_v2.png" width="365" height="323" />
                                                                      
 ### IBM Storage diagram examples:
 
@@ -95,14 +95,13 @@ Example with IBM Spectrum Scale Container Native Storage Access - CSNA
 
 ![IBM_Spectrum Scale CSNA](./images/storage/IBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.png)
 
-- [IBM Spectrum_Scale_CSNA](https://app.diagrams.net/#)
-
+- [IBM Spectrum Scale - CSNA](https://app.diagrams.net/#https%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.drawio)
 
 Example with IBM Spectrum Scale Stretched Cluster + CES and Remote Cluster options-  
 
 ![IBM_Spectrum Scale Stretched_Cluster](./images/storage/IBM_Spectrum_Scale_Stretched_Cluster_CES_Remote.png)
 
-- [IBM Spectrum Scale_Stretched Cluster - CES and Remote Cluster](https://app.diagrams.net/#)
+- [IBM Spectrum Scale - Stretched Cluster - CES and Remote Cluster](https://app.diagrams.net/#https%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Stretched_Cluster_CES_Remote.drawio)
 
 
 ---
