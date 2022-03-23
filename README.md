@@ -39,23 +39,23 @@ Most of the diagrams have layers, So you can remove or add for.example: **FC Por
                                                                      
 ### IBM Storage diagram examples:
 
-#### IBM FlashSystem and SVC - FC-Port Connection Diagram - [IBM FlashSystem - FC-Port Connection Diagram direct link to diagrams.net ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fmaster%2Fdrawio%2Fstorage%2FIBM_FlashSystem_FC-Ports-Odd-Even.drawio)
+#### IBM FlashSystem and SVC - FC-Port Connection Diagram - [IBM FlashSystem - FC-Port Connection Diagram direct link to diagrams.net ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fv3%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
 **Current System in the diagram**
    - FS9500, FS9100, FS7x00, FS5100, FS5200 and SVC SV1-3*
 
 **Example Flashsystem with Public port.**
 ![FC-Ports-fs-7200](./images/storage/IBM_FlashSystem_SVC_8_FCPorts_Odd_Even_v2.png)
-- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
+- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fv3%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
 
 **Example Flashsystem 7x00,9100 and 5100 with private and Public port for HyperSwap setup**
 
 ![FC-Ports-fs-hyperswap](./images/storage/IBM_FlashSystem_SVC_8FCPorts_Odd_Even_HyperSwap_v2.png)
-- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
+- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fv3%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
 
 **Example of FlashSystem 5200 with private, (There is also for Private Public / Hypeswap)**
 
 ![FC-Ports-fs-hyperswap](./images/storage/IBM_FlashSystem_5200_8_FCPorts_Odd_Even_v2.png)
-- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
+- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fv3%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
 
 
 
