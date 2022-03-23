@@ -21,7 +21,7 @@ Check also [IBM Architecture Center](https://www.ibm.com/cloud/garage/architectu
      - [IBM FlashSystem - HyperSwap - SAN Fabric Private and Public Diagram](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fmaster%2Fdrawio%2Fstorage%2FIBM_Flashsystem-HyperSwap-SAN-Fabric-Public-Private.drawio)
      - [IBM FlashSystem - HyperSwap - SAN Fabric Private Intercluster](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fmaster%2Fdrawio%2Fstorage%2FIBM_FlashSystem-HyperSwap-SAN-Fabric-Private-Intercluster.drawio)
      - [IBM FlashSystem - SVC Stretched Cluster - SAN Fabric Private and Public Diagram](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Flashsystem_SVC_SAN_Fabric_Public_Private.drawio)
-     - [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v2.drawio)
+     - [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
    
    - **File Storage**
      - [IBM Spectrum Scale - Container Native Storage Access](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.drawio)
@@ -41,21 +41,21 @@ Most of the diagrams have layers, So you can remove or add for.example: **FC Por
 
 #### IBM FlashSystem and SVC - FC-Port Connection Diagram - [IBM FlashSystem - FC-Port Connection Diagram direct link to diagrams.net ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fmaster%2Fdrawio%2Fstorage%2FIBM_FlashSystem_FC-Ports-Odd-Even.drawio)
 **Current System in the diagram**
-   - FS9100, FS7100, FS5100, FS5200 and SVC SV*
+   - FS9500, FS9100, FS7x00, FS5100, FS5200 and SVC SV1-3*
 
 **Example Flashsystem with Public port.**
 ![FC-Ports-fs-7200](./images/storage/IBM_FlashSystem_SVC_8_FCPorts_Odd_Even_v2.png)
-- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v2.drawio)
+- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
 
-**Example Flashsystem 7200,9100 and 5100 with private and Public port for HyperSwap setup**
+**Example Flashsystem 7x00,9100 and 5100 with private and Public port for HyperSwap setup**
 
 ![FC-Ports-fs-hyperswap](./images/storage/IBM_FlashSystem_SVC_8FCPorts_Odd_Even_HyperSwap_v2.png)
-- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v2.drawio)
+- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
 
 **Example of FlashSystem 5200 with private, (There is also for Private Public / Hypeswap)**
 
 ![FC-Ports-fs-hyperswap](./images/storage/IBM_FlashSystem_5200_8_FCPorts_Odd_Even_v2.png)
-- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v2.drawio)
+- [IBM FlashSystem - FC-Port Connections Diagram ](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_FlashSystem_SVC_FC_Ports_Odd_Even_v3.drawio)
 
 
 
@@ -114,6 +114,11 @@ Example with IBM Spectrum Scale Stretched Cluster + CES and Remote Cluster optio
 ---
 
 ### Change Log
+
+**23.03.2022 Updated with:**
+
+- New models FS9500, FS7300 and SVC SV3
+- PortSets example
 
 **14.04.2021 Updated with:**
 
