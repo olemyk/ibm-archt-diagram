@@ -98,9 +98,9 @@ Example with IBM Power E950 network drawing with 10Gb and 1gbps - SRV-IO and SEA
 
 ### IBM Spectrum Scale Diagrams
 
-Example with IBM Spectrum Scale Container Native Storage Access - CSNA
+Example with IBM Spectrum Scale Container Native Storage Access - CNSA
 
-![IBM_Spectrum Scale CSNA](./images/storage/IBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.png)
+![IBM_Spectrum Scale CNSA](./images/storage/IBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.png)
 
 - [IBM Spectrum Scale - CSNA](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Folemyk%2Fibm-archt-diagram%2Fdev%2Fdrawio%2Fstorage%2FIBM_Spectrum_Scale_Container_Native_with_storage_cluster_logical.drawio)
 
